@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "stdint.h": "c",
+        "stdio.h": "c",
+        "test4.h": "c",
+        "mousedriver.h": "c",
+        "kbc.h": "c",
+        "i8042.h": "c",
+        "i8254.h": "c",
+        "syslib.h": "c",
+        "sysutil.h": "c",
+        "stdbool.h": "c",
+        "lab4.h": "c"
+    }
+}
