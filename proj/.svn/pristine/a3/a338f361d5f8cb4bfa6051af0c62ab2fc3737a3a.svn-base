@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "video_gr.h": "c",
+        "kbd.h": "c",
+        "stdint.h": "c",
+        "sprite.h": "c",
+        "vbe.h": "c",
+        "graphicalmacros.h": "c",
+        "stdlib.h": "c",
+        "mousedriver.h": "c",
+        "cdrom.h": "c",
+        "type_traits": "c",
+        "cmath": "c"
+    }
+}
